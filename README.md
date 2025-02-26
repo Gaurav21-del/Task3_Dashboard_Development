@@ -41,7 +41,7 @@ The purpose of the E-commerce Sales Dashboard is to provide stakeholders with ac
 
 ### Schema - E-commerce Sales Data
 
-![Schema - Ecommerce Sales Data]()
+![Schema - Ecommerce Sales Data](![Image](https://github.com/user-attachments/assets/56671c2e-dfe7-4518-b814-9c6dae57bac5))
 
 ---
 
