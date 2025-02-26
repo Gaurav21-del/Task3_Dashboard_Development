@@ -32,7 +32,7 @@ The purpose of the E-commerce Sales Dashboard is to provide stakeholders with ac
 ### Dashboard
 
 #### SAMPLE 1
-![Screenshot 2025-26-02 064146]()
+![Screenshot 2025-26-02 064146]([Ecommerce Sales Dashboard.pdf](https://github.com/user-attachments/files/18977246/Ecommerce.Sales.Dashboard.pdf))
 
 #### SAMPLE 2
 ![E-Commerce Sales Dashboard]()
